@@ -1,0 +1,437 @@
+
+
+SECUNDA 0
+Clientul 0(38,3)Clientul 1(37,4)Clientul 2(5,6)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 9(2,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 13(2,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 16(5,6)Clientul 17(15,1)Clientul 18(6,4)Clientul 19(7,4)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 39(7,5)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 43(6,2)Clientul 44(3,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: 
+Casa2: 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 1
+Clientul 0(38,3)Clientul 1(37,4)Clientul 2(5,6)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 9(2,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 13(2,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 16(5,6)Clientul 17(15,1)Clientul 18(6,4)Clientul 19(7,4)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 39(7,5)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 43(6,2)Clientul 44(3,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: 
+Casa2: 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 2
+Clientul 0(38,3)Clientul 1(37,4)Clientul 2(5,6)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 16(5,6)Clientul 17(15,1)Clientul 18(6,4)Clientul 19(7,4)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 39(7,5)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 43(6,2)Clientul 44(3,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: Clientul 9(2,2) 
+Casa2: Clientul 13(2,1) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 3
+Clientul 0(38,3)Clientul 1(37,4)Clientul 2(5,6)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 16(5,6)Clientul 17(15,1)Clientul 18(6,4)Clientul 19(7,4)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 39(7,5)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 43(6,2)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: Clientul 9(2,1) 
+Casa2: Clientul 44(3,4) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 4
+Clientul 0(38,3)Clientul 1(37,4)Clientul 2(5,6)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 16(5,6)Clientul 17(15,1)Clientul 18(6,4)Clientul 19(7,4)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 39(7,5)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 43(6,2)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: 
+Casa2: Clientul 44(3,3) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 5
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 17(15,1)Clientul 18(6,4)Clientul 19(7,4)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 39(7,5)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 43(6,2)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: Clientul 2(5,6) 
+Casa2: Clientul 44(3,2) 
+Casa3: Clientul 16(5,6) 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 6
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 17(15,1)Clientul 19(7,4)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 39(7,5)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: Clientul 2(5,5) 
+Casa2: Clientul 44(3,1) 
+Casa3: Clientul 16(5,5) 
+Casa4: Clientul 18(6,4) 
+Casa5: Clientul 43(6,2) 
+
+
+SECUNDA 7
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 30(8,4)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 38(8,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 48(8,6)Clientul 49(16,5)
+Casa1: Clientul 2(5,4) Clientul 39(7,5) 
+Casa2: Clientul 19(7,4) 
+Casa3: Clientul 16(5,4) 
+Casa4: Clientul 18(6,3) 
+Casa5: Clientul 43(6,1) 
+
+
+SECUNDA 8
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 10(9,6)Clientul 11(9,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 28(9,6)Clientul 29(13,6)Clientul 31(9,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 2(5,3) Clientul 39(7,5) 
+Casa2: Clientul 19(7,3) Clientul 38(8,1) 
+Casa3: Clientul 16(5,3) Clientul 48(8,6) 
+Casa4: Clientul 18(6,2) 
+Casa5: Clientul 30(8,4) 
+
+
+SECUNDA 9
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 29(13,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 42(10,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 2(5,2) Clientul 39(7,5) Clientul 28(9,6) 
+Casa2: Clientul 19(7,2) Clientul 38(8,1) Clientul 31(9,6) 
+Casa3: Clientul 16(5,2) Clientul 48(8,6) 
+Casa4: Clientul 18(6,1) Clientul 10(9,6) 
+Casa5: Clientul 30(8,3) Clientul 11(9,2) 
+
+
+SECUNDA 10
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 29(13,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 2(5,1) Clientul 39(7,5) Clientul 28(9,6) 
+Casa2: Clientul 19(7,1) Clientul 38(8,1) Clientul 31(9,6) 
+Casa3: Clientul 16(5,1) Clientul 48(8,6) 
+Casa4: Clientul 10(9,6) Clientul 42(10,4) 
+Casa5: Clientul 30(8,2) Clientul 11(9,2) 
+
+
+SECUNDA 11
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 15(12,2)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 29(13,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 37(12,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 39(7,5) Clientul 28(9,6) 
+Casa2: Clientul 38(8,1) Clientul 31(9,6) 
+Casa3: Clientul 48(8,6) 
+Casa4: Clientul 10(9,5) Clientul 42(10,4) 
+Casa5: Clientul 30(8,1) Clientul 11(9,2) 
+
+
+SECUNDA 12
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 29(13,6)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 39(7,4) Clientul 28(9,6) 
+Casa2: Clientul 31(9,6) Clientul 15(12,2) 
+Casa3: Clientul 48(8,5) Clientul 37(12,1) 
+Casa4: Clientul 10(9,4) Clientul 42(10,4) 
+Casa5: Clientul 11(9,2) 
+
+
+SECUNDA 13
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 39(7,3) Clientul 28(9,6) 
+Casa2: Clientul 31(9,5) Clientul 15(12,2) 
+Casa3: Clientul 48(8,4) Clientul 37(12,1) 
+Casa4: Clientul 10(9,3) Clientul 42(10,4) 
+Casa5: Clientul 11(9,1) Clientul 29(13,6) 
+
+
+SECUNDA 14
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 17(15,1)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 39(7,2) Clientul 28(9,6) 
+Casa2: Clientul 31(9,4) Clientul 15(12,2) 
+Casa3: Clientul 48(8,3) Clientul 37(12,1) 
+Casa4: Clientul 10(9,2) Clientul 42(10,4) 
+Casa5: Clientul 29(13,6) 
+
+
+SECUNDA 15
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 33(16,6)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)Clientul 49(16,5)
+Casa1: Clientul 39(7,1) Clientul 28(9,6) 
+Casa2: Clientul 31(9,3) Clientul 15(12,2) 
+Casa3: Clientul 48(8,2) Clientul 37(12,1) 
+Casa4: Clientul 10(9,1) Clientul 42(10,4) 
+Casa5: Clientul 29(13,5) Clientul 17(15,1) 
+
+
+SECUNDA 16
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 41(17,4)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 28(9,6) Clientul 33(16,6) 
+Casa2: Clientul 31(9,2) Clientul 15(12,2) 
+Casa3: Clientul 48(8,1) Clientul 37(12,1) 
+Casa4: Clientul 42(10,4) Clientul 49(16,5) 
+Casa5: Clientul 29(13,4) Clientul 17(15,1) 
+
+
+SECUNDA 17
+Clientul 0(38,3)Clientul 1(37,4)Clientul 3(18,6)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 28(9,5) Clientul 33(16,6) 
+Casa2: Clientul 31(9,1) Clientul 15(12,2) 
+Casa3: Clientul 37(12,1) Clientul 41(17,4) 
+Casa4: Clientul 42(10,3) Clientul 49(16,5) 
+Casa5: Clientul 29(13,3) Clientul 17(15,1) 
+
+
+SECUNDA 18
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 12(19,1)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 28(9,4) Clientul 33(16,6) 
+Casa2: Clientul 15(12,2) Clientul 3(18,6) 
+Casa3: Clientul 41(17,4) 
+Casa4: Clientul 42(10,2) Clientul 49(16,5) 
+Casa5: Clientul 29(13,2) Clientul 17(15,1) 
+
+
+SECUNDA 19
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 7(20,3)Clientul 8(32,2)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 28(9,3) Clientul 33(16,6) 
+Casa2: Clientul 15(12,1) Clientul 3(18,6) 
+Casa3: Clientul 41(17,3) Clientul 12(19,1) 
+Casa4: Clientul 42(10,1) Clientul 49(16,5) 
+Casa5: Clientul 29(13,1) Clientul 17(15,1) 
+
+
+SECUNDA 20
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 8(32,2)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 28(9,2) Clientul 33(16,6) 
+Casa2: Clientul 3(18,6) Clientul 7(20,3) 
+Casa3: Clientul 41(17,2) Clientul 12(19,1) 
+Casa4: Clientul 49(16,5) 
+Casa5: Clientul 17(15,1) 
+
+
+SECUNDA 21
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 8(32,2)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 28(9,1) Clientul 33(16,6) 
+Casa2: Clientul 3(18,5) Clientul 7(20,3) 
+Casa3: Clientul 41(17,1) Clientul 12(19,1) 
+Casa4: Clientul 49(16,4) 
+Casa5: 
+
+
+SECUNDA 22
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 8(32,2)Clientul 14(23,5)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 26(23,6)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 33(16,6) 
+Casa2: Clientul 3(18,4) Clientul 7(20,3) 
+Casa3: Clientul 12(19,1) 
+Casa4: Clientul 49(16,3) 
+Casa5: 
+
+
+SECUNDA 23
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 8(32,2)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 33(16,5) 
+Casa2: Clientul 3(18,3) Clientul 7(20,3) 
+Casa3: Clientul 14(23,5) 
+Casa4: Clientul 49(16,2) 
+Casa5: Clientul 26(23,6) 
+
+
+SECUNDA 24
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 6(25,5)Clientul 8(32,2)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 33(16,4) 
+Casa2: Clientul 3(18,2) Clientul 7(20,3) 
+Casa3: Clientul 14(23,4) 
+Casa4: Clientul 49(16,1) 
+Casa5: Clientul 26(23,5) 
+
+
+SECUNDA 25
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 8(32,2)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 27(26,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 35(26,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 33(16,3) 
+Casa2: Clientul 3(18,1) Clientul 7(20,3) 
+Casa3: Clientul 14(23,3) 
+Casa4: Clientul 6(25,5) 
+Casa5: Clientul 26(23,4) 
+
+
+SECUNDA 26
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 8(32,2)Clientul 20(27,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 36(27,1)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 33(16,2) Clientul 27(26,3) 
+Casa2: Clientul 7(20,3) Clientul 35(26,2) 
+Casa3: Clientul 14(23,2) 
+Casa4: Clientul 6(25,4) 
+Casa5: Clientul 26(23,3) 
+
+
+SECUNDA 27
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 8(32,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 33(16,1) Clientul 27(26,3) 
+Casa2: Clientul 7(20,2) Clientul 35(26,2) 
+Casa3: Clientul 14(23,1) Clientul 20(27,2) 
+Casa4: Clientul 6(25,3) Clientul 36(27,1) 
+Casa5: Clientul 26(23,2) 
+
+
+SECUNDA 28
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 8(32,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 23(29,1)Clientul 24(30,2)Clientul 25(38,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 27(26,3) 
+Casa2: Clientul 7(20,1) Clientul 35(26,2) 
+Casa3: Clientul 20(27,2) 
+Casa4: Clientul 6(25,2) Clientul 36(27,1) 
+Casa5: Clientul 26(23,1) 
+
+
+SECUNDA 29
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 8(32,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 24(30,2)Clientul 25(38,3)Clientul 32(32,5)Clientul 34(30,2)Clientul 40(32,5)Clientul 45(30,1)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 27(26,2) 
+Casa2: Clientul 35(26,2) 
+Casa3: Clientul 20(27,1) 
+Casa4: Clientul 6(25,1) Clientul 36(27,1) 
+Casa5: Clientul 23(29,1) 
+
+
+SECUNDA 30
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 5(31,4)Clientul 8(32,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 25(38,3)Clientul 32(32,5)Clientul 40(32,5)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 27(26,1) Clientul 45(30,1) 
+Casa2: Clientul 35(26,1) 
+Casa3: Clientul 24(30,2) 
+Casa4: Clientul 36(27,1) 
+Casa5: Clientul 34(30,2) 
+
+
+SECUNDA 31
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 8(32,2)Clientul 21(34,2)Clientul 22(35,6)Clientul 25(38,3)Clientul 32(32,5)Clientul 40(32,5)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 45(30,1) 
+Casa2: Clientul 5(31,4) 
+Casa3: Clientul 24(30,1) 
+Casa4: 
+Casa5: Clientul 34(30,1) 
+
+
+SECUNDA 32
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 21(34,2)Clientul 22(35,6)Clientul 25(38,3)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 8(32,2) 
+Casa2: Clientul 5(31,3) 
+Casa3: Clientul 32(32,5) 
+Casa4: Clientul 40(32,5) 
+Casa5: 
+
+
+SECUNDA 33
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 21(34,2)Clientul 22(35,6)Clientul 25(38,3)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 8(32,1) 
+Casa2: Clientul 5(31,2) 
+Casa3: Clientul 32(32,4) 
+Casa4: Clientul 40(32,4) 
+Casa5: 
+
+
+SECUNDA 34
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 22(35,6)Clientul 25(38,3)Clientul 46(38,6)Clientul 47(35,6)
+Casa1: Clientul 21(34,2) 
+Casa2: Clientul 5(31,1) 
+Casa3: Clientul 32(32,3) 
+Casa4: Clientul 40(32,3) 
+Casa5: 
+
+
+SECUNDA 35
+Clientul 0(38,3)Clientul 1(37,4)Clientul 4(36,4)Clientul 25(38,3)Clientul 46(38,6)
+Casa1: Clientul 21(34,1) 
+Casa2: Clientul 22(35,6) 
+Casa3: Clientul 32(32,2) 
+Casa4: Clientul 40(32,2) 
+Casa5: Clientul 47(35,6) 
+
+
+SECUNDA 36
+Clientul 0(38,3)Clientul 1(37,4)Clientul 25(38,3)Clientul 46(38,6)
+Casa1: Clientul 4(36,4) 
+Casa2: Clientul 22(35,5) 
+Casa3: Clientul 32(32,1) 
+Casa4: Clientul 40(32,1) 
+Casa5: Clientul 47(35,5) 
+
+
+SECUNDA 37
+Clientul 0(38,3)Clientul 25(38,3)Clientul 46(38,6)
+Casa1: Clientul 4(36,3) 
+Casa2: Clientul 22(35,4) 
+Casa3: Clientul 1(37,4) 
+Casa4: 
+Casa5: Clientul 47(35,4) 
+
+
+SECUNDA 38
+
+Casa1: Clientul 4(36,2) Clientul 25(38,3) 
+Casa2: Clientul 22(35,3) Clientul 46(38,6) 
+Casa3: Clientul 1(37,3) 
+Casa4: Clientul 0(38,3) 
+Casa5: Clientul 47(35,3) 
+
+
+SECUNDA 39
+
+Casa1: Clientul 4(36,1) Clientul 25(38,3) 
+Casa2: Clientul 22(35,2) Clientul 46(38,6) 
+Casa3: Clientul 1(37,2) 
+Casa4: Clientul 0(38,2) 
+Casa5: Clientul 47(35,2) 
+
+
+SECUNDA 40
+
+Casa1: Clientul 25(38,3) 
+Casa2: Clientul 22(35,1) Clientul 46(38,6) 
+Casa3: Clientul 1(37,1) 
+Casa4: Clientul 0(38,1) 
+Casa5: Clientul 47(35,1) 
+
+
+SECUNDA 41
+
+Casa1: Clientul 25(38,2) 
+Casa2: Clientul 46(38,6) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 42
+
+Casa1: Clientul 25(38,1) 
+Casa2: Clientul 46(38,5) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 43
+
+Casa1: 
+Casa2: Clientul 46(38,4) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 44
+
+Casa1: 
+Casa2: Clientul 46(38,3) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 45
+
+Casa1: 
+Casa2: Clientul 46(38,2) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 46
+
+Casa1: 
+Casa2: Clientul 46(38,1) 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+SECUNDA 47
+
+Casa1: 
+Casa2: 
+Casa3: 
+Casa4: 
+Casa5: 
+
+
+PEAK HOUR :9 (12 clienti la case)
+AVG SERVICE TIME :3.68
+AVG WAITING TIME :3.68

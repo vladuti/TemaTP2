@@ -1,0 +1,197 @@
+
+
+SECUNDA 0
+Clientul 0(8,2)Clientul 1(7,3)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 1
+Clientul 0(8,2)Clientul 1(7,3)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 2
+Clientul 0(8,2)Clientul 1(7,3)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 3
+Clientul 0(8,2)Clientul 1(7,3)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 4
+Clientul 0(8,2)Clientul 1(7,3)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 5
+Clientul 0(8,2)Clientul 1(7,3)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 6
+Clientul 0(8,2)Clientul 1(7,3)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 7
+Clientul 0(8,2)Clientul 2(24,3)Clientul 3(28,3)
+Casa1: Clientul 1(7,3) 
+Casa2: 
+
+
+SECUNDA 8
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: Clientul 1(7,2) 
+Casa2: Clientul 0(8,2) 
+
+
+SECUNDA 9
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: Clientul 1(7,1) 
+Casa2: Clientul 0(8,1) 
+
+
+SECUNDA 10
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 11
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 12
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 13
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 14
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 15
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 16
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 17
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 18
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 19
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 20
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 21
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 22
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 23
+Clientul 2(24,3)Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 24
+Clientul 3(28,3)
+Casa1: Clientul 2(24,3) 
+Casa2: 
+
+
+SECUNDA 25
+Clientul 3(28,3)
+Casa1: Clientul 2(24,2) 
+Casa2: 
+
+
+SECUNDA 26
+Clientul 3(28,3)
+Casa1: Clientul 2(24,1) 
+Casa2: 
+
+
+SECUNDA 27
+Clientul 3(28,3)
+Casa1: 
+Casa2: 
+
+
+SECUNDA 28
+
+Casa1: Clientul 3(28,3) 
+Casa2: 
+
+
+SECUNDA 29
+
+Casa1: Clientul 3(28,2) 
+Casa2: 
+
+
+SECUNDA 30
+
+Casa1: Clientul 3(28,1) 
+Casa2: 
+
+
+SECUNDA 31
+
+Casa1: 
+Casa2: 
+
+
+PEAK HOUR :8 (2 clienti la case)
+AVG SERVICE TIME :2.75
+AVG WAITING TIME :2.75
